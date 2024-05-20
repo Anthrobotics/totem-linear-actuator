@@ -1,5 +1,5 @@
 # Totem Linear Actuator
-Open-source linear actuator developed by POINTBLANK, and adapted by Anthrobotics.
+Open-source linear actuator developed by POINTBLANK LLC, and adapted by Anthrobotics.
 
 The Totem linear actuator uses COTS hardware components, including electric skateboard motors, to maintain a simple design while delivering excellent performance. 
 
@@ -17,6 +17,6 @@ Here's a demo of the actuator in motion:
 
 # Attribution
 
-The Totem actuator was developed by POINTBLANKLLC (https://www.pointblankllc.com/) and adapted for further use in humanoids by Anthrobotics (https://anthrobotics.ca/).
+The Totem actuator was developed by POINTBLANK LLC (https://www.pointblankllc.com/) and adapted for further use in humanoids by Anthrobotics (https://anthrobotics.ca/).
 
 # NOTICE: This repo is under construction, and will be updated.
